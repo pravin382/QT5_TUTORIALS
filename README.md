@@ -14,7 +14,8 @@ QMake version 3.1
 Using Qt version 5.9.5 in /usr/lib/x86_64-linux-gnu
 ```
 
-## Setting of VSCode for Qt
+## Cmake with Qt5
+See [here](https://doc.qt.io/qt-5/cmake-get-started.html#build-a-gui-executable)
 
 ## Table of Contents
 - [Introduction](./Introduction/)
