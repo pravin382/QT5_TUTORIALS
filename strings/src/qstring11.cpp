@@ -1,4 +1,4 @@
-// using Qstring example10
+// using Qstring example11
 // aligning strings, leftJustified(), rightJustified() methods
 
 #include <QTextStream>
