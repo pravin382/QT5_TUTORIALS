@@ -1,4 +1,4 @@
-// using Qstring example4
+// using Qstring example5
 // Using substrings in QString 
 
 

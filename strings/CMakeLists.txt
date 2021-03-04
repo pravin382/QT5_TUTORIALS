@@ -18,7 +18,7 @@ else()
 endif()
 
 set(SRC_DIR src)
-set(SOURCES ${SRC_DIR}/qstring1.cpp)
+set(SOURCES ${SRC_DIR}/qstring8.cpp)
 set(EXE main)
 
 message("The name of the executable is main.")

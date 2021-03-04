@@ -1,4 +1,4 @@
-// using Qstring example4
+// using Qstring example7
 // String comparison using QString::compare
 // if QString::compare returns <0 =first is less than second
 // return 0 = first equals second

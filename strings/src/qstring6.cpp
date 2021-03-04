@@ -1,4 +1,4 @@
-// using Qstring example4
+// using Qstring example6
 // Looping through QString. Remember QString consists of QChars
 
 
