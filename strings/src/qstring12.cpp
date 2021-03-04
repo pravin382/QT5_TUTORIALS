@@ -1,5 +1,5 @@
 // using Qstring example12
-// aligning escape characters, Bacically replaces <, "", space, > with html named entities. Don't know what that means
+// HTML escape characters, Bacically replaces <, "", space, > with html named entities. Don't know what that means
 
 #include <QTextStream>
 #include <QFile>
