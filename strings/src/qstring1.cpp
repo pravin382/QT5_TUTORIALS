@@ -1,10 +1,10 @@
-// using Qstring
+// using Qstring example1
 
 #include <QTextStream>
 
 int main(void) 
 {
-    
+
     QTextStream out(stdout);
     
     // initializing string
