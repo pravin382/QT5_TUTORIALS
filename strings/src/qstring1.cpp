@@ -2,7 +2,9 @@
 
 #include <QTextStream>
 
-int main(void) {
+int main(void) 
+{
+    
     QTextStream out(stdout);
     
     // initializing string
