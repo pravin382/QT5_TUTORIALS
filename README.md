@@ -18,4 +18,6 @@ Using Qt version 5.9.5 in /usr/lib/x86_64-linux-gnu
 See [here](https://doc.qt.io/qt-5/cmake-get-started.html#build-a-gui-executable)
 
 ## Table of Contents
-- [Introduction](./introduction/)
+- [Introduction](./introduction/): Creating a simple window
+- [Strings in Qt5](./strings/): Using QString
+    - example1
