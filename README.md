@@ -30,7 +30,7 @@ set(SOURCES ${SRC_DIR}/<Keep your name here>)
 
 
 ## Table of Contents
-- [Introduction](./introduction/): Creating a simple window
+- [Introduction](./introduction/): Introduction to Qt
 - [Strings in Qt5](./strings/): Using QString
     - [example1](./strings/src/qstring1.cpp) : Basics of QString, toUpper(), toLower(), append(), prepend() method
     - [example2](./strings/src/qstring2.cpp) : Various methods of initializing QStrings, at() method
@@ -44,3 +44,10 @@ set(SOURCES ${SRC_DIR}/<Keep your name here>)
     - [example10](./strings/src/qstring10.cpp) : Modifying strings, clear(), replace(), remove() methods
     - [example11](./strings/src/qstring11.cpp) : Aligning strings, leftJustified(), rightJustified() methods
     - [example12](./strings/src/qstring12.cpp) : HTML escape characters example
+- [First programs](./first_programs/): Creating a sample window, display tooltip, various mouse cursors, signal and slot mechanisms
+   - [Simple.cpp](./first_programs/src/simple.cpp) : simple window creation
+   - [tooltip.cpp](./first_programs/src/tooltip.cpp) : shows tooltip, doesnot seem to work with Qt 5.9.5
+   - [cursors.h](./first_programs/include/cursors.h),[cursors.cpp](./first_programs/include/cursors.cpp),[cursors_main.cpp](./first_programs/src/cursors_main.cpp) : different kinds of cursors
+   - [pushbutton.h](./first_programs/include/pushbutton.h), [pushbutton.cpp](./first_programs/include/pushbutton.cpp),[pushbutton_main.cpp](./first_programs/src/pushbutton_main.cpp) : pushbutton example
+   - [plusminus.h](./first_programs/include/plusminus.h), [plusminus.cpp](./first_programs/include/plusminus.cpp), [plusminus_main.cpp](./first_programs/src/plusminus_main.cpp) : Simple clicks on button counter program
+
