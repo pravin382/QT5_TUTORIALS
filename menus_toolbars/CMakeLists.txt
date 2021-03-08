@@ -16,8 +16,8 @@ endif()
 set(SRC_DIR src)
 set(INCLUDE include)
 set(SOURCES 
-    ${SRC_DIR}/simple_menu.cpp 
-    ${SRC_DIR}/simple_menu_main.cpp 
+    ${SRC_DIR}/another_menu.cpp 
+    ${SRC_DIR}/another_menu_main.cpp 
     )
 set(EXE main)
 

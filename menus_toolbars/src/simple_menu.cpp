@@ -9,5 +9,8 @@ SimpleMenu::SimpleMenu(QWidget* parent): QMainWindow(parent) {
     QMenu * file = menuBar()->addMenu("&File");
     file->addAction(quit);
 
+    QMenu * file2 = menuBar()->addMenu("&Edit");
+    file2->addAction(quit);
+
     connect(quit, &QAction::triggered, qApp, QApplication::quit);
 }
