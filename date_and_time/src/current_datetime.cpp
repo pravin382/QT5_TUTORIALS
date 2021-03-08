@@ -10,7 +10,7 @@ int main(void) {
    QDate cd = QDate::currentDate();
    QTime ct = QTime::currentTime();
 
-   out << "Current date is: " << cd.toString() << endl;
+   out << "Current date is: " << cd.toString() << endl; // day, month, date, year
    out << "Current time is: " << ct.toString() << endl;
    return 0;
 }
